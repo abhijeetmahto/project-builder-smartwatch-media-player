@@ -1,6 +1,6 @@
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-# ProGrad Project-Builder | JS | SMARTWATCH MEDIAPLAYER
+# ProGrad Project-Builder | HTML & CSS | SMARTWATCH UI
 
 We have learned all the important concepts in JavaScript. Now lets work with our project builder in building a smartwatch, applying all of the concepts we have just learned.
 
@@ -8,7 +8,7 @@ We have learned all the important concepts in JavaScript. Now lets work with our
 ```
 Fork this repo
 Clone this repo
-Practice HTML,CSS & JS Features
+Practice HTML,CSS Features
 ```
 
 ## How To Submit
@@ -22,9 +22,13 @@ git push origin master
 And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
 ```
 
-### Progression 1: LET'S PLAY A SONG
-In this task you are going to build and integrate music player in your smartwatch.
+### Progression 1: UI
+Create the design of smartwatch.
 
-![Image description](https://i1.faceprep.in/ProGrad/sm-4.PNG)
+### Progression 2: SET THE DATE AND TIME
+Set the date and time in the smartwatch.
+
+![Image description](https://i1.faceprep.in/ProGrad/sm-1.PNG)
+
 
 Happy Coding ProGrads❤️
